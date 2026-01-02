@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Backend_Developer-coding4fun-brightgreen?style=for-the-badge" />
   
   <p align="center">
     <a href="https://t.me/a62family">
