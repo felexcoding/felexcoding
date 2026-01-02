@@ -20,7 +20,7 @@
 ### � Обо мне
 
 - 🛠 Специализируюсь на **Backend** разработке.
-- � Сейчас активно углубляюсь в **Rust** и **NuxtJS**.
+- 📖 Сейчас активно углубляюсь в **Rust** и **NuxtJS**.
 - ⚡ **Fun fact:** отдамся за энергетик.
 
 ---
@@ -43,9 +43,9 @@
 ### 📊 GitHub Статистика
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qcopy-alt&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="qcopy-alt's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qcopy-alt&theme=github_dark" alt="GitHub Details" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qcopy-alt&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=qcopy-alt&theme=github_dark" alt="Most Used Languages" />
 </div>
 
 ---
