@@ -29,7 +29,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,rust,py,kotlin,nuxt,vue,fastly,docker,postgres,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,rust,py,kotlin,nuxt,vue,docker,postgres,linux&theme=dark" />
   </a>
 </div>
 
