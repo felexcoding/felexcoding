@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3> 👨‍� Backend Developer | coding4fun </h3>
+  <img src="https://img.shields.io/badge/Backend_Developer-coding4fun-brightgreen?style=for-the-badge" />
   
   <p align="center">
     <a href="https://t.me/a62family">
@@ -43,9 +43,9 @@
 ### 📊 GitHub Статистика
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qcopy-alt&theme=github_dark" alt="GitHub Details" />
+  <img src="https://github-readme-stats.vercel.app/api?username=qcopy-alt&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=qcopy-alt&theme=github_dark" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qcopy-alt&layout=compact&theme=tokyonight" alt="Top Langs" />
 </div>
 
 ---
