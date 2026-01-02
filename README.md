@@ -28,34 +28,25 @@
 ###  Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fastly-FF282D?style=flat-square&logo=fastly&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,rust,py,kotlin,nuxt,vue,fastly,docker,postgres,linux&theme=dark" />
+  </a>
 </div>
 
 ---
 
-###  GitHub Achievements & Trophies
+###  GitHub Metrics & Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=qcopy-alt&theme=tokyonight&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://metrics.lecoq.io/qcopy-alt?template=classic&config.timezone=Europe%2FMoscow" alt="GitHub Metrics" />
 </div>
 
 ---
 
-###  GitHub Stats (Mirrors)
+###  Quote of the day
 
 <div align="center">
-  <img src="https://github-readme-stats-one.vercel.app/api?username=qcopy-alt&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=qcopy-alt&layout=compact&theme=tokyonight" alt="Top Langs" />
-  <br>
-  <img src="https://streak-stats.vercel.app/?user=qcopy-alt&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </div>
 
 ---
