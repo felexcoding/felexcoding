@@ -42,6 +42,8 @@
 
 ---
 
+###  GitHub Profile Stats
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=qcopy-alt&color=5EDC11&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
