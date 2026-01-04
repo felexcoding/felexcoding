@@ -5,7 +5,7 @@
 <div align="center">
   
   <p align="center">
-    <a href="https://t.me/a62family">
+    <a href="https://t.me/felexfamily">
       <img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" />
     </a>
     <a href="mailto:admin@0xe.lol">
