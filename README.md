@@ -16,32 +16,6 @@
 
 ---
 
-###  About Me
-
-- Specialized in **Backend** development.
-- Currently deep diving into **Rust** and **NuxtJS**.
-- **Fun fact:** will work for energy drinks.
-
----
-
-###  Tech Stack
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,py,kotlin,js,ts,bun,nuxt,vue,pinia,docker,mysql,php,postman,arch,neovim,nginx&theme=dark" />
-  </a>
-</div>
-
----
-
-###  Quote of the day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</div>
-
----
-
 ###  GitHub Profile Stats
 
 <div align="center">
